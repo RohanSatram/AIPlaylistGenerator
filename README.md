@@ -47,11 +47,3 @@ This project uses AI to generate personalized Spotify playlists based on your pr
 3. Log in with your Spotify account
 4. Enter your preferences or mood in the text box
 5. Click "Generate Playlist" to create a new playlist
-
-## Testing
-
-To test the Gemini integration separately:
-
-```bash
-python test.py
-```
